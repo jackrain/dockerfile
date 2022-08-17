@@ -1,7 +1,7 @@
 # raincloud
 #
 # VERSION               1.0
-FROM      registry.acs.aliyun.com/open/tomcat8.0.32:5.0.0
+FROM registry.cn-zhangjiakou.aliyuncs.com/jstopen/tomcat8:2.0.0
 
 MAINTAINER alibaba
 
